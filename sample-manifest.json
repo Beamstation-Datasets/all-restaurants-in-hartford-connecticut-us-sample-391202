@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2d8d1cf8-0778-4970-889d-8b1f6981fcda",
+  "export_job_id": "35c4c3aa-4b6c-4973-b177-c7c6249e02f7",
   "id_short": 391202,
-  "published_at": "2026-04-12T19:02:20Z",
+  "published_at": "2026-04-17T19:24:36Z",
   "repo_name": "all-restaurants-in-hartford-connecticut-us-sample-391202",
   "sample_asset_name": "beamstation_391202_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/391202/beamstation_391202_restaurants-us-ct_SAMPLE_DIST.csv",
   "sample_records": 104,
-  "sample_sha256": "d43bfb945476930d14e1bb979c3f5263ce57850f3fb623fd01e62f686556fd29",
-  "sample_size_bytes": 400969,
-  "total_records": 1048
+  "sample_sha256": "9228b76c64503874a95f9e2300000734ac35d0d5e02ba2401a7789e3e827c9c1",
+  "sample_size_bytes": 370798,
+  "total_records": 1044
 }
