@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Hartford, Connecticut with a population of over 121k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Hartford, Connecticut, US",
-  "export_job_id": "2d8d1cf8-0778-4970-889d-8b1f6981fcda",
+  "export_job_id": "35c4c3aa-4b6c-4973-b177-c7c6249e02f7",
   "github_org": "Beamstation-Datasets",
   "id_short": 391202,
   "location_name": "Hartford",
   "location_type": "city",
   "repo_name": "all-restaurants-in-hartford-connecticut-us-sample-391202",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/391202/beamstation_391202_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_pct": 9.92,
+  "sample_pct": 9.96,
   "sample_records": 104,
-  "sample_sha256": "d43bfb945476930d14e1bb979c3f5263ce57850f3fb623fd01e62f686556fd29",
-  "sample_size_bytes": 400969,
-  "total_records": 1048,
-  "updated_at": "2026-04-07T10:40:50.395168+00:00"
+  "sample_sha256": "9228b76c64503874a95f9e2300000734ac35d0d5e02ba2401a7789e3e827c9c1",
+  "sample_size_bytes": 370798,
+  "total_records": 1044,
+  "updated_at": "2026-04-14T10:34:35.530024+00:00"
 }
